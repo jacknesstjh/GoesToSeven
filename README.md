@@ -1,0 +1,2 @@
+# GoesToSeven
+Practice with golang.
